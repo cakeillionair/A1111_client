@@ -1,0 +1,7 @@
+{
+  "use_client_config": true,
+  "folders": {
+    "A1111_folder": "C:\\Users\\bsi\\stable-diffusion-webui"
+  },
+  "timeout": 240
+}
