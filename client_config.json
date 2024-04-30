@@ -3,5 +3,6 @@
   "folders": {
     "A1111_folder": "C:\\Users\\bsi\\stable-diffusion-webui"
   },
-  "timeout": 240
+  "timeout": 240,
+  "start_time": 16
 }

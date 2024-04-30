@@ -47,7 +47,7 @@ def launch_a1111(folder):
         # A1111 wird gestartet und das Programm wartet bis es fertig ist
         os.chdir(folder)
         os.startfile("webui.bat")
-        sleep(16)
+        sleep(client_config["start_time"])
     else:
         write_out_log("A1111 already launched!", LOG)
 
